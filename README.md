@@ -27,7 +27,9 @@ Option 1 is the best choice if you are able to do it ahead of time, because it d
 If you don't already have Jupyter, I recommend installing Anaconda or Miniconda (I use miniconda), which allows user-level package installation and thus will not interfere with other Python installations or environments.
 It works on Windows, Mac and Linux.
 
+[Information about installing Miniconda is here](https://docs.conda.io/en/latest/miniconda.html).
 [Information about installing Anaconda is here](http://docs.continuum.io/anaconda/install.html).
+
 
 The code for the tutorial works in Python 3.
 
@@ -111,7 +113,13 @@ You can run the class notebooks in Google Colab by uploading the Notebook to Col
 
 You should see a home page with a list of the notebooks in the repository.
 
-Open "L1_Python_intro.ipynb". You should be able to run the notebook in your browser 
+Open "L1_Python_intro.ipynb".
+
+```
+    jupyter notebook L1_Python_intro.ipynb
+```
+
+You should be able to run the notebook in your browser 
 and try out the examples.  
 
 However, be aware that the virtual machine you are running is temporary.
