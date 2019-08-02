@@ -44,11 +44,11 @@ Once you have Jupyter, you can get my code from  the Git repository on GitHub.  
 To clone the repo:
 
 ```
-    git clone https://github.com/AllenDowney/ThinkComplexity2.git
+    git clone https://github.com/YuliyaLab/AIclass.git
 ```
 
 Tha should create a directory called `AIclass`.
-Otherwise you can download the repository in [this zip file](https://github.com/AllenDowney/ThinkComplexity2/archive/master.zip)
+Otherwise you can download the repository in [this zip file](https://github.com/YuliyaLab/AIclass/archive/master.zip)
 and unzip it.
 
 Then "cd" into the new directory:
